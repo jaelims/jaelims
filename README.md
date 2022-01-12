@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=jaelims github!!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=jaelims%20github!!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 <!--
 **jaelims/jaelims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
