@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaelims&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaelims&show_icons=true&theme=radical)]
